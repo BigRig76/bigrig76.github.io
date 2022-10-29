@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Big Rig Blog</title>
+    <link>https://bigrig76.github.io/blog/</link>
+    <description>Recent content in Blog on Big Rig Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 12 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bigrig76.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Traveling In Uzbekistan</title>
+      <link>https://bigrig76.github.io/blog/traveluzbek/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigrig76.github.io/blog/traveluzbek/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

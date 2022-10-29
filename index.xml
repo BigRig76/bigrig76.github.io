@@ -4,22 +4,23 @@
     <title>Big Rig Blog</title>
     <link>https://bigrig76.github.io/</link>
     <description>Recent content on Big Rig Blog</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://bigrig76.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 12 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bigrig76.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Traveling In Uzbekistan</title>
+      <link>https://bigrig76.github.io/blog/traveluzbek/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigrig76.github.io/blog/traveluzbek/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>About Me</title>
       <link>https://bigrig76.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bigrig76.github.io/page/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>https://bigrig76.github.io/blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bigrig76.github.io/blog/</guid>
       <description></description>
     </item>
     
