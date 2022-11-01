@@ -5,7 +5,16 @@
     <link>https://bigrig76.github.io/</link>
     <description>Recent content in Home of Adam McAree on Big Rig Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bigrig76.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bigrig76.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://bigrig76.github.io/page/about/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigrig76.github.io/page/about/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Blog Entry: October 30, 2022</title>
       <link>https://bigrig76.github.io/blog/october30/</link>
@@ -22,15 +31,6 @@
       
       <guid>https://bigrig76.github.io/blog/traveluzbekistan/</guid>
       <description>Here&amp;rsquo;s a video I made back in Spring 2021.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://bigrig76.github.io/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bigrig76.github.io/page/about/</guid>
-      <description></description>
     </item>
     
   </channel>
